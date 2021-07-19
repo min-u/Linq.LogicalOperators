@@ -1,9 +1,6 @@
-﻿namespace System.Linq.Extensions
-{
-    public class FlowController<T>
-    {
-        internal FlowController()
-        {
+﻿namespace System.Linq.Extensions {
+    public class FlowController<T> {
+        internal FlowController() {
         }
 
         internal bool True { get; set; }
